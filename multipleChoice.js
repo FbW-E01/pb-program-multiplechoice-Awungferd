@@ -88,4 +88,4 @@ switch (true) {
 // Differences
 //When should you use a switch statement versus an if else statement. Comment your answer in your js file.
 
-//ANSWER: Switch statement is preferable when dealing a list of items with multiple outcomes. The if else statement is good for operations with one or two outcomes
+//ANSWER: Switch statement is preferable when dealing  an operation that emphasizes only equality. But the if else statement evaluates both equality and logical expression.
